@@ -1,1 +1,1 @@
-# KickstartSE
+Maximilian = ich bin Max
